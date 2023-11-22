@@ -1,0 +1,10 @@
+{
+    "program": "hamza.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpEnGYsDmX4beod2KzDE8oWrCAf2gqvMPXzCKjhxW48668",
+        "address": "aleo1dw94uyjuykzd0wjn5wwlmvqvdtq7gwkmgrycjqs0mg5dlyshcg8sh8mfz9"
+    },
+    "license": "MIT"
+}
